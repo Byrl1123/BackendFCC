@@ -3,6 +3,7 @@
 	"author": "Bryant Revete",
 	"description": "an application that does amazing things",
 	"keywords": [ "freecodecamp", "course", "nodeJS" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
