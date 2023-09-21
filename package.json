@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Bryant Revete",
+	"description": "an application that does amazing things",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
